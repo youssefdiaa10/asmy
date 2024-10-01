@@ -3,7 +3,7 @@ function greet(name) {
 }
 
 function love(name) {
-  return `I love ${name}`;
+  return `I love ${name}.`;
 }
 
 function motivate(name) {
