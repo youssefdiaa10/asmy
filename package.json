@@ -1,0 +1,20 @@
+{
+  "name": "asmy",
+  "version": "0.0.1",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup ./src/index.ts"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "youssefdiaa",
+  "license": "ISC",
+  "description": "Enter your name and return it in a sentence",
+  "devDependencies": {
+    "tsup": "^8.3.5",
+    "typescript": "^5.7.2"
+  }
+}
